@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tp2Moviles</string>
+    <string name="convertidor">Convertidor</string>
+    <string name="dolares">Dolares</string>
+    <string name="euros">Euros</string>
+    <string name="cambio_a">Cambio a ...</string>
+    <string name="convertir">Convertir</string>
+    <string name="dolares_a_euros">Dolares a Euros</string>
+    <string name="euros_a_dolares">Euros a Dolares</string>
+    <string name="_0">0</string>
+</resources>
